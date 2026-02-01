@@ -8,13 +8,10 @@
 # Kalbande, S.R. et al. (2025). Front. Mar. Sci., 12.
 This repository provides the R scripts used to fit Generalized Additive Models (GAMs) and estimate 95% confidence intervals for ichthyoplankton (Fish eggs and larvae)abundance, as reported in the associated publication.
 
-# GAM_fish_Eggs-larvae-analysis-GAM_-ichthyoplankton-eastern-Arabian-Sea
-R scripts for GAM analysis used in Kalbande et al. (2025), Frontiers in Marine Science
-Supplementary Details: R script for the full Generalized Additive Model (GAM), along with the corresponding 95% confidence intervals.
+
 a) For Fish eggs- GAM- R script
 library(mgcv)
 
-(A) Fish eggs script → GAM_Fish_Eggs.R
 R_data <- read.csv("E:/cr46/R_data.csv")
 
 # Data preparation for Gamma family
