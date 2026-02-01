@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated article."
+authors:
+  - family-names: Kalbande
+    given-names: Sonal Rajendra
+title: "GAM analysis of fish eggs and larvae (Ichthyoplankton) in the eastern Arabian Sea"
+version: 1.0.0
+doi: 10.3389/fmars.2025.1705873
+journal: Frontiers in Marine Science
+year: 2025
+url: "https://github.com/sonalkalbande123/GAM_fish_larvae-analysis-GAM_-ichthyoplankton-eastern-Arabian-Sea"
