@@ -1,4 +1,5 @@
-Title: GAM analysis of Fish eggs and larvae (ichthyoplankton) eastern Arabian Sea
+#Title: GAM analysis of fish eggs and larvae (Ichthyoplankton) – Eastern Arabian Sea
+
 # Author: Sonal Rajendra Kalbande 
 # Journal: Frontiers in Marine Science
 # Year: 2025
@@ -13,6 +14,7 @@ Supplementary Details: R script for the full Generalized Additive Model (GAM), a
 a) For Fish eggs- GAM- R script
 library(mgcv)
 
+(A) Fish eggs script → GAM_Fish_Eggs.R
 R_data <- read.csv("E:/cr46/R_data.csv")
 
 # Data preparation for Gamma family
