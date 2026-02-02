@@ -2,10 +2,10 @@
 
 # Author: Sonal Rajendra Kalbande 
 # Journal: Frontiers in Marine Science
-# Year: 2025
+# Year: 2026
 # DOI: https://doi.org/10.3389/fmars.2025.1705873
 # If you use this code, please cite:
-# Kalbande, S.R. et al. (2025). Front. Mar. Sci., 12.
+# Kalbande, S.R. et al. (2026). Front. Mar. Sci., 12.
 This repository provides the R scripts used to fit Generalized Additive Models (GAMs) and estimate 95% confidence intervals for ichthyoplankton (Fish eggs and larvae)abundance, as reported in the associated publication.
 
 
