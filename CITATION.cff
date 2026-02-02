@@ -1,3 +1,4 @@
+
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
@@ -8,5 +9,4 @@ version: 1.0.0
 doi: 10.5281/zenodo.18453702
 date-released: 2026-02-02
 url: "https://github.com/sonalkalbande123/GAM_fish_egg-larvae-analysis-GAM_-ichthyoplankton-eastern-Arabian-Sea"
-
 
